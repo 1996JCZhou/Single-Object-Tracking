@@ -74,7 +74,7 @@ img = np.zeros((512, 512, 3), np.uint8)
 img.fill(255)
 
 RecA = [100, 100, 200, 200]
-RecB = [110, 110, 210, 210]
+RecB = [120, 120, 220, 220]
 
 cv2.rectangle(img, (RecA[0], RecA[1]), (RecA[2], RecA[3]), (0, 255, 0), 1)
 cv2.rectangle(img, (RecB[0], RecB[1]), (RecB[2], RecB[3]), (255, 0, 0), 1)
