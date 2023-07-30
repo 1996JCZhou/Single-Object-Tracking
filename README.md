@@ -35,4 +35,4 @@ In [**MeanShift_Numpy.py**](https://github.com/1996JCZhou/Single-Object-Tracking
 Result example from the Python script **MeanShift_Numpy.py**:
 ![image](https://github.com/1996JCZhou/Single-Object-Tracking/blob/master/Result%20example%20from%20MeanShift_Numpy.py%201.PNG)
 
-![image](https://github.com/1996JCZhou/Single-Object-Tracking/blob/master/Result%20example%20from%20MeanShift_Numpy.py%201.PNG)
+![image](https://github.com/1996JCZhou/Single-Object-Tracking/blob/master/Result%20example%20from%20MeanShift_Numpy.py%202.PNG.PNG)
