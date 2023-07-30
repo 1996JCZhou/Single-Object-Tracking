@@ -17,3 +17,11 @@ What interests me most in this [paper](https://ieeexplore.ieee.org/document/8547
 - Improvements of the method
 
 When running a video, we can often clearly find out that the size of the target object will change frame by frame. That means in this situation, the estimation of the color distribution for the target object will no longer work for the following frames. So, the size of the target candidate and the kernel band width need to change according the changing target model. This problem can be solved by the **camshift** method. My another ongoing work is to introduce the **Kalman Filter** in the whole Mean Shift setting. With the **Kalman Filter**, the target object can still be tracked, even though it moves faster or hides behind another object. I am truely excited to realize it.
+
+## Requirements
+- Python
+- Numpy
+- Opencv-python
+
+## Results
+![image](https://github.com/1996JCZhou/Single-Object-Tracking/blob/master/line.png)
