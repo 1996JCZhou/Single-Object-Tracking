@@ -25,8 +25,14 @@ When running a video, we can often clearly find out that the size of the target 
 - Opencv-python
 
 ## Results
+In [**MeanShift_OpenCV.py**](https://github.com/1996JCZhou/Single-Object-Tracking/blob/master/MeanShift_OpenCV.py), you have to first define the position of the bounding box (red) in the video frame before loading the video. After you have selected it, the Mean Shift algorithm begins as long as you start to load your video.
+
 Result example from the Python script **MeanShift_OpenCV.py**:
 ![image](https://github.com/1996JCZhou/Single-Object-Tracking/blob/master/Result%20example%20from%20MeanShift_OpenCV.py.PNG)
 
+In [**MeanShift_Numpy.py**](https://github.com/1996JCZhou/Single-Object-Tracking/blob/master/MeanShift_Numpy.py), you need to first draw a bounding box (yellow) to track in the video frame. After having selected you own bounding box, the Mean Shift Algorithm begins.
+
 Result example from the Python script **MeanShift_Numpy.py**:
-![image](https://github.com/1996JCZhou/Single-Object-Tracking/blob/master/Result%20example%20from%20MeanShift_OpenCV.py.PNG)
+![image](https://github.com/1996JCZhou/Single-Object-Tracking/blob/master/Result%20example%20from%20MeanShift_Numpy.py%201.PNG)
+
+![image](https://github.com/1996JCZhou/Single-Object-Tracking/blob/master/Result%20example%20from%20MeanShift_Numpy.py%201.PNG)
