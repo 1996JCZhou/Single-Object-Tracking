@@ -1,7 +1,7 @@
 # Single Object Tracking Using Meanshift
 
-My research in the field of visible object detection begins with the tracking of visual features from moving object using Mean Shift. Peter Meer et al. proposed a method for [Real-time tracking of non-rigid objects using mean shift](https://ieeexplore.ieee.org/document/854761). After reading this paper carefully, I wrote codes using python to realize the ideas of the authors. The codes have two versions, [one](https://github.com/1996JCZhou/Single-Object-Tracking/blob/master/MeanShift_Numpy.py)
- with **opencv** built-in functions **calcBackProject** and **meanShift** and  with purely **numpy**. Here are my thoughts for this paper and inspirations from it:
+My research in the field of visible object detection begins with the tracking of visual features from moving object using Mean Shift. Peter Meer et al. proposed a method for [Real-time tracking of non-rigid objects using mean shift](https://ieeexplore.ieee.org/document/854761). After reading this paper carefully, I wrote codes using python to realize the ideas of the authors. The codes have two versions, [one](https://github.com/1996JCZhou/Single-Object-Tracking/blob/master/MeanShift_OpenCV.py)
+ with **opencv** built-in functions **calcBackProject** and **meanShift** and [the other](https://github.com/1996JCZhou/Single-Object-Tracking/blob/master/MeanShift_Numpy.py) with purely **numpy**. Here are my thoughts for this paper and inspirations from it:
 
 - Visual Feature Representation
 
