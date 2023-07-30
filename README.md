@@ -24,4 +24,4 @@ When running a video, we can often clearly find out that the size of the target 
 - Opencv-python
 
 ## Results
-![image](https://github.com/1996JCZhou/Single-Object-Tracking/blob/master/line.png)
+![image](https://github.com/1996JCZhou/Single-Object-Tracking/blob/master/Result%20example.PNG)
